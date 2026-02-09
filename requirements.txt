@@ -6,3 +6,4 @@ openpyxl
 gpxpy
 streamlit-js-eval
 plotly
+supabase
