@@ -5,3 +5,4 @@ xlsxwriter
 openpyxl
 gpxpy
 streamlit-js-eval
+plotly
